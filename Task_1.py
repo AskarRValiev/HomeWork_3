@@ -17,7 +17,6 @@ def create_rnd_list():
     return rnd_list
 
 
-
 num_list = create_rnd_list()
 print(odd_position(num_list))
 
